@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/lsc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.loweschmidt.se
+  * I am lsc (https://keybase.io/lsc) on keybase.
+  * I have a public key with fingerprint 2A8D 2973 E946 CDCF F598  882A 21A4 CE53 2151 9CBF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200e6cabb9411f41f883d0b076657637f084c27c81c0d117c835ed12c276b998b60a",
+            "fingerprint": "2a8d2973e946cdcff598882a21a4ce5321519cbf",
+            "host": "keybase.io",
+            "key_id": "21a4ce5321519cbf",
+            "kid": "01013754b2ffc49a58ca53e488bfc2c3b33e44f0c61de06488e8802d1bd2a92a1fd20a",
+            "uid": "d510d664ce54910df794280af9097719",
+            "username": "lsc"
+        },
+        "revoke": {
+            "sig_ids": [
+                "58ed444356df1fc5cf007feaa56983307f1ccf85b3d6b76bccbbab14bb1e83d10f"
+            ]
+        },
+        "service": {
+            "hostname": "www.loweschmidt.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470314770,
+    "expire_in": 157680000,
+    "prev": "8a832e56bae77aa19da225e7e391b278913c47b60d4a36e60d4726f277e8213b",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMO2AnicbVJtUFRVGEYQAoyPKEzHhuSC1Sgw99zPc3c0c0adpgRN5GNQ2s4991y4
+7roXd1eQEAotCROQEtJJqUmtSDAHs5qxXULNkgwLpDEFEeuHxodpEGggnd3Rf90f
+57znvc/7vM95zns6IiggfFr8wY70+Jf2tU77sW1kU0DWASWmhFFNrZixlDA24t+I
+XSMut9VmaIyFYQHHskTCSFUVAQBdADqEvMaqrCxJoizxss5CAXMyhgCzGgA04EWi
+AY7mJFVRoCqxiElidMORR5wFTsPhprQcghqnyDxRBAlrWNdFBULIIQ4gAROR54AI
+FKzqtDDfdPkqqDgVuUiKYdIcPVj98v4H/0A3C3hZFFRO17GgIBFiJPJEgFDVMYd5
+lacHQWexBDTCSjRPIGQ5DagahxQOAV3j/Lo3+ek0EbCaJPl6CQoNdVkROMgiXWEV
+WQaKD+giTgfaQCja7sJMaRLjJIWmjfgsdRl5VK+LsaxlREg0QRB4UdJ0oGMR6ywr
+6wQhUVIgz9MYYKxDUeU1SaUOYqyqSAWCqgJCjQeszuRSbtqs0MB+cp9B9xsXFRWl
+2M0i4sL5GwzNneIiVFiB03Sb2LTT//lud4HFJ81dXODHE9V6n8mqGg6NvhEtKCRO
+l2E6GAugSOw2fNRAkFmeLjKbxJDNBYaTWA0fgo4AZOnna0MKKSVEkOeIKKmIyDJC
+QNEQx4lEJrwCVE6GCuCxINOh0ATES8S3y5ykc7JMIAd4lfHdbaPDpNyU1I3yKCe1
+z4Hcm5yEKT3Ztm56wLTwgJDgQN/wBoSHRT8Y6cCbUVM5Qcvae1bWkpvnE2sWTLbu
+LOhddU8/E/tP0WB+X1eQ9uSH21/rOf/9jk/v/LU2fW7Yr5N/722dc7fJ4o0e98R7
+v1hUnT3c/ZbpTXUmDOSit0f2tIXw5Ueds449/8iM0605sQM5R5o8F2PaV8NXvplZ
+vP+XhW/Omz9ekjqWNzuuIqPx8bSLOw5equix/eQdmj32h/GY6Tyc+Oyd8Kiy3Uvu
+WbtvzC0LnGfxpC3/+pQtzzOackb83NN990hL5rVHrw1OBK/LxpHWwoHgEFfq1h9e
+xcsWLGhJOKqMbzfG9gW2dL4rXbavmT189dvi0rmerrK1Yw/XN9YXz9r94ieTq1aO
+9C4Zcgb2n3CQzAvPZC3subdmFzdqiT+QU9LVvCWjvTyt843Q2MURo0s7J3+uGRwa
+Wr44I+943JW4s+GRDcuvVD6x9dyc1faogI8bah0rtsz7HZY3ZG0W+73C9ZUdn53D
+bMPwn9OF5JpeN+HvVtUNb5xejK+/v3P/+dt7tIS++crrSqPly6dtVYsra59rP1G+
+ra82bJm3JLm577d36rh0z+GlG+vTT9omTl0wHXsvKutP1d06nRm5vyl5/Yqp42Xf
+eZIPXpq6VX303z252wwjMPbG2fVfZT9krej9qEPfu2vRsaeul6H3PuiMaQkdDX35
+WtDtqxH2ykP9l6smqifTo2sSzoUc2lfTOiPyhZn5zZ2Jbd7/ABVm5UQ=
+=P2kj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lsc
+
+==================================================================
